@@ -1,5 +1,5 @@
-I'm 17 years old student hwo learning programming by myself from scratch. 
-You can dip in my public repositories and see what I can do 
+I'm 17-year-old student hwo learning programming by myself from scratch. 
+You can check out my public repositories and see what I can do 
 _(nothing really special, btw)_.
 
 # Other places where you can find me 
