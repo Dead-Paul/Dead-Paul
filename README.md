@@ -9,4 +9,4 @@ _(nothing really special, btw)_.
 
 <img src="https://cdn-icons-png.flaticon.com/128/4945/4945914.png" height="20px"> Discord account: [@dead_paul_dead](https://discordapp.com/users/dead_paul_dead)
 
-<img src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png" height="20px"> Steam account: [@dead_paul_dead](https://steamcommunity.com/id/dead-paul-dead)
+<img src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png" height="20px"> Steam account: [@dead_paul_dead](https://steamcommunity.com/id/dead_paul_dead)
