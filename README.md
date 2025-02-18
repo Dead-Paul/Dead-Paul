@@ -1,4 +1,4 @@
-I'm 17-year-old student hwo learning programming by myself from scratch. 
+I'm 18-year-old student hwo learning programming by myself from scratch. 
 You can check out my public repositories and see what I can do 
 _(nothing really special, btw)_.
 
